@@ -1,2 +1,2 @@
 Written by the main branch
-Wriiten by the feature branch
+Written by the feature branch
